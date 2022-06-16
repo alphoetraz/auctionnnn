@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="log_in">Log In</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signin">Signin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragement">Second Fragement</string>
+    <string name="third_fragement">Third Fragement</string>
+    <string name="fourth_fragement">Fourth Fragement</string>
+    <string name="name">Name</string>
+    <string name="profile">Profile</string>
+    <string name="profil">profil</string>
+    <string name="first_fragement">First Fragement</string>
+
+
+</resources>
